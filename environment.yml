@@ -1,0 +1,11 @@
+name: expl_rationalization
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - python
+  - statsmodels
+
