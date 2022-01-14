@@ -1,4 +1,4 @@
-name: expl_rationalization
+name: expl_rationalizing
 channels:
   - conda-forge
   - defaults
